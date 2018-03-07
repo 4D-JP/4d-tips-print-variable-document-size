@@ -2,6 +2,8 @@
 
 用紙サイズが異なるPDFを出力する例題
 
+* v16
+
 ### Download
 
 [1.0](https://github.com/4D-JP/4d-tips-print-variable-document-size/releases/tag/1.0)
