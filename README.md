@@ -2,7 +2,7 @@
 
 用紙サイズが異なるPDFを出力する例題
 
-* v16
+* v16/[4d-plugin-gs](https://github.com/miyako/4d-plugin-gs) included
 
 ### Download
 
